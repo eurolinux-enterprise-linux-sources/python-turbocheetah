@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - python-turbocheetah 
+# ELS - Enterprise Linux/EuroLinux Sources - python-turbocheetah
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
